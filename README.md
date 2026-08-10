@@ -1,24 +1,13 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Subham!;B.Tech+Computer+Science;Web+%26+Cross-Platform+Developer;AI+Enthusiast+%26+Vibe+Coder" alt="Typing SVG" />
-</h1>
+<h1 align="center">👋 Hello World, I'm Subham Mukhopadhyay!</h1>
+
+<h3 align="center">B.Tech Computer Science (3rd Year) | Web & Cross-Platform Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+with+HTML5,+CSS3,+%26+JS;Coding+in+TypeScript+%26+Kotlin;Deploying+Cross-Platform+Apps;Vibe+Coding+with+Google+Antigravity" alt="Frameworks Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SubhamMukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhamMukhopadhyay&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Subham's Trophies" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhamMukhopadhyay&show_icons=true&theme=radical" alt="Subham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamMukhopadhyay&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
