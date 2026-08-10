@@ -3,7 +3,7 @@
 <h3 align="center">AI Enthusiast | B.Tech Computer Science (3rd Year) | Web & Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+with+React,+Next.js,+%26+Vite;Coding+in+Node.js,+Express,+%26+FastAPI;Deploying+on+Vercel+%26+Netlify;AI+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+with+React,+Next.js,+%26+Vite;Integrating+AI+APIs+%26+Hugging+Face;Deploying+on+Vercel,+Netlify,+%26+Render;AI+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -46,9 +48,10 @@
 3rd Year B.Tech Computer Science student at Narula Institute of Technology specializing in software development, web technologies, and AI integrations.
 
 *   **Development Style:** A versatile developer who blends traditional coding methodologies with modern frameworks and tools to rapidly build and scale applications.
+*   **AI Integration & APIs:** Experienced in calling AI APIs and leveraging platforms like Hugging Face for intelligent applications.
 *   **Soulara AI:** Lead AI Developer and core contributor to the application development of an AI-powered conversational practice partner.
 *   **Experience:** Completed technical internships in Artificial Intelligence at **CodSoft** and Web Development at **Cognifyz Technologies**.
-*   **Cloud & Deployment:** Proficient in deploying and maintaining web applications across platforms like Vercel and Netlify.
+*   **Cloud & Deployment:** Proficient in deploying and maintaining applications across platforms like Vercel, Netlify, and Render.
 *   **Community Engagement:** Active hackathon participant and collaborative team developer.
 
 ---
